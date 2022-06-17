@@ -1,0 +1,51 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Jokhang Temple",
+        "Angkor Wat",
+        "Borobodur Temple"
+        
+      ],
+      "correct": {
+        "index": 2,
+        "text": "<Located in Indonesia, the Borobodur temple is 42 meters tall, covers an area of 15,129 square meters, and has an impressive 72 stupas.."
+      },
+      "image": "img/img1.jpg",
+      "number": 1,
+      "prompt": "Located in Central Java, this archeological site of Buddhist temples is considered to be the largest in the world."
+    },
+    {
+      "answers": [
+        "Florence, cathedral of Santa Maria del Fiore",
+        "Venice, St Mark's Basilica",
+        "Naples, cathedral of the Assumption of Mary"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "the construction of the cathedral of Santa Maria del Fiore began in 1296."
+      },
+      "image": "img/img2.jpg",
+      "number": 2,
+      "prompt": "Where in Italy is a Gothic cathedral which is most recognized for its enormous dome?"
+    },
+    {
+      "answers": [
+        "Chichen Itza, Mexico",
+        "Peru, Macchu Picchu",
+        "Tikal, Guatemala"
+        
+      ],
+      "correct": {
+        "index": 1,
+        "text": "The impressive Macchu Picchu in Peru is a sight everyone should see at least once in their lifetime."
+      },
+      "image": "img/img3.jpg",
+      "number": 3,
+      "prompt": "This Inca citadel, renowned for its Temple of the Sun, is located in which country?"
+    
+    }
+  ],
+  "title": "Let's go back in time...",
+  "url": "https://chloepc03.github.io/historyquiz/"
+}
